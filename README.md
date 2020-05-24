@@ -12,10 +12,10 @@
 
 - Linux系统相关
   - [服务器架构与CPU绑定技术](article/Linux/CPU绑定技术/CPU绑定技术.md)
-  - [Linux NameSpace and Control groups](article/Linux/Linux NameSpace 和 Control Groups/linux_namespace_and_cgroups.md)
+  - [Linux NameSpace and Control groups](article/Linux/Linux_NS_and_CGroups/linux_namespace_and_cgroups.md)
 - 云计算相关
   - [Cinder Volume 启动流程源码解析](article/OpenStack/cinder-volume启动流程/cinder-volume启动流程解析.md)
-  - [Nova与Cinder组件交互逻辑源码解析](article/OpenStack/nova与cinder的存储交互/Nova 与 Cinder的交互.md)
+  - [Nova与Cinder组件交互逻辑源码解析](article/OpenStack/nova与cinder的存储交互/Nova与Cinder的交互.md)
   - [OpenstackSDK架构及源码解析](article/OpenStack/openstacksdk详解/openstacksdk详解.md)
 
 - Python相关
