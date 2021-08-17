@@ -9,7 +9,8 @@
   - [Ceph cmake进行项目编译](article/Ceph/ceph编译开发cmake/ceph_cmake.md)
   - [Centos7编译Ceph内核模块](article/Ceph/Ceph内核模块编译及调试/ceph内核编译及调试.md)
   - [Ceph RBD ISCSI Gateway配置详解](article/Ceph/rbd-iscsi-gateway详细配置/ceph-iscsi-gateway-with-lio.md)
-
+- [Ceph pacific容器化部署及新特性了解](./article/Ceph/centos8容器化部署ceph-pacific/Ceph-Pacific-deploy-with-container.md)
+  
 - Linux系统相关
   - [服务器架构与CPU绑定技术](article/Linux/CPU绑定技术/CPU绑定技术.md)
   - [Linux NameSpace and Control groups](article/Linux/Linux_NS_and_CGroups/linux_namespace_and_cgroups.md)
